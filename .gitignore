@@ -1,0 +1,5 @@
+/kafdrop-4.0.1.jar
+/kafka_2.13-3.7.0.tgz
+/kafka_2.13-3.7.0
+*.jar
+*.tgz
